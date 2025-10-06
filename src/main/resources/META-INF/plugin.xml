@@ -7,5 +7,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="cd1807b6-858f-4e2b-90be-9b15d4062c15" path="/theme/neon_glow_light.theme.json"/>
+        <themeProvider id="0e9257f0-893e-4aec-904a-cafc012ed4f5" path="/theme/neon_glow_dark.theme.json"/>
     </extensions>
 </idea-plugin>

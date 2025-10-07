@@ -1,0 +1,28 @@
+{
+  "name": "Neon Glow (Light)",
+  "dark": false,
+  "author": "Ángel Vázquez",
+  "editorScheme": "/neon_glow_light.xml",
+  "parentTheme": "ExperimentalLightWithLightHeader",
+  "colors": {
+    "basicBackground": "#F5F5F5",
+    "basicForeground": "#4E4E4E",
+    "selectionBackground": "#179917",
+    "selectionForeground": "#FFFFFF",
+    "inactiveBackground": "#DCDCDC",
+    "overlayBackground": "#CCCCCC"
+  },
+  "ui": {
+    "*": {
+      "background": "basicBackground",
+      "foreground": "basicForeground",
+      "selectionBackground": "selectionBackground",
+      "selectionForeground": "selectionForeground",
+      "selectionInactiveBackground": "selectionForeground",
+      "selectionBackgroundInactive": "selectionForeground",
+      "selectionInactiveForeground": "basicForeground",
+      "selectionForegroundInactive": "basicForeground"
+    },
+    "Button.arc": 16
+  }
+}
